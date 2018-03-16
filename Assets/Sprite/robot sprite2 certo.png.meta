@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: aae4e386313ba7647bc05425220dc5fe
+timeCreated: 1480044618
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: robot sprite2 certo_0
+    21300002: robot sprite2 certo_1
+    21300004: robot sprite2 certo_2
+    21300006: robot sprite2 certo_3
+    21300008: robot sprite2 certo_4
+    21300010: robot sprite2 certo_5
+    21300012: robot sprite2 certo_6
+    21300014: robot sprite2 certo_7
+    21300016: robot sprite2 certo_8
+    21300018: robot sprite2 certo_9
+    21300020: robot sprite2 certo_10
+    21300022: robot sprite2 certo_11
+    21300024: robot sprite2 certo_12
+    21300026: robot sprite2 certo_13
+    21300028: robot sprite2 certo_14
+    21300030: robot sprite2 certo_15
+    21300032: robot sprite2 certo_16
+    21300034: robot sprite2 certo_17
+    21300036: robot sprite2 certo_18
+    21300038: robot sprite2 certo_19
+    21300040: robot sprite2 certo_20
+    21300042: robot sprite2 certo_21
+    21300044: robot sprite2 certo_22
+    21300046: robot sprite2 certo_23
+    21300048: robot sprite2 certo_24
+    21300050: robot sprite2 certo_25
+    21300052: robot sprite2 certo_26
+    21300054: robot sprite2 certo_27
+    21300056: robot sprite2 certo_28
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robot sprite2 certo_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 835
+        width: 76
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 962
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 833
+        width: 80
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 832
+        width: 111
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 823
+        width: 80
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 802
+        width: 75
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 940
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_7
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 829
+        width: 83
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 637
+        width: 88
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 637
+        width: 65
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 638
+        width: 100
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 639
+        width: 82
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 631
+        width: 84
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_13
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 639
+        width: 108
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 440
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 441
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 443
+        width: 103
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 440
+        width: 117
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_18
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 436
+        width: 119
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_19
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 435
+        width: 86
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_20
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 435
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 231
+        width: 114
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 384
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 270
+        width: 126
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_24
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 269
+        width: 164
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 263
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_26
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 262
+        width: 121
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_27
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 257
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: robot sprite2 certo_28
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 259
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
